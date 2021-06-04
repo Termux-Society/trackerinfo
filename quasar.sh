@@ -60,10 +60,10 @@ echo "		░▒███▒█▄ ▒▒█████▓  ▓█   ▓██▒
 echo "		░░ ▒▒░ ▒ ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ "
 echo "		 ░ ▒░  ░ ░░▒░ ░ ░   ▒   ▒▒ ░░ ░▒  ░ ░  ▒   ▒▒ ░  ░▒ ░ ▒░ "
 echo -e "		   ░   ░  ░░░ ░ ░   ░   ▒   ░  ░  ░    ░   ▒     ░░   ░  $nc"
-echo -e "	$red[$green+$red]$cyan Coded by	 $nc : Hacker alok $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Contact$nc 	  : www.facebook.com/Aniket kakeni $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Youtube 	$nc  : https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Github 	$nc  : www.github.com/Hackeralok119 $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Coded by	 $nc : Termux Society $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Contact$nc 	  : https://www.facebook.com/Termux-Society-101110888676729/ $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Youtube 	$nc  : https://youtube.com/channel/UCtTIPQUmBW6PRXY0Jg5dLKQ $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Github 	$nc  : www.github.com/Termux-Society $red[$green+$red]$nc"
 	}
 
 function back() {
@@ -399,10 +399,10 @@ fi
 #
 elif [ $ch = 8 ]; then
 echo ""
-echo -e "$green 	Coded By    $nc:$yellow ALOK HACKER"
-echo -e "$green 	My Facebook $nc:$yellow www.facebook.com/ANIKET KAKENI$nc"
-echo -e "$green 	My Github   $nc:$yellow www.github.com/Hackeralok119$nc"
-echo -e "$green 	My Youtube $nc :$yellow https://www.youtube.com/channel/UCFbU5tKMUI51CEXKZhTCNRg$nc"
+echo -e "$green 	Coded By    $nc:$yellow Termux Society"
+echo -e "$green 	My Facebook $nc:$yellow https://www.facebook.com/Termux-Society-101110888676729/$nc"
+echo -e "$green 	My Github   $nc:$yellow www.github.com/Termux Society$nc"
+echo -e "$green 	My Youtube $nc :$yellow https://youtube.com/channel/UCtTIPQUmBW6PRXY0Jg5dLKQ$nc"
 echo ""
 back
 elif [ $ch = 9 ]; then
